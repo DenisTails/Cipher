@@ -1,0 +1,6 @@
+﻿  Cipher.cpp
+c:\users\денис\source\repos\cipher\cipher\cipher.cpp(12): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\денис\source\repos\cipher\cipher\cipher.cpp(13): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\денис\source\repos\cipher\cipher\cipher.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\денис\source\repos\cipher\cipher\cipher.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+  Cipher.vcxproj -> C:\Users\Денис\source\repos\Cipher\Debug\Cipher.exe
